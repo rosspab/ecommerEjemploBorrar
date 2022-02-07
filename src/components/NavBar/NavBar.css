@@ -1,0 +1,11 @@
+.background{
+    background-color: #000;
+}
+.navUl{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+a{
+    color: #fff;
+}
